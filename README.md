@@ -30,16 +30,22 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 
-Dependencies installation track
-*******************************
+### Dependencies installation track
 
 npx create-react-app newday-test --template typescript
+
 npm i styled-components
+
 npm i styled-bootstrap-grid
+
 npm install --save-dev @testing-library/react-hooks
+
 npm i @nrwl/jest
+
 npm install --save-dev babel-jest @babel/core @babel/preset-env
+
 npm install --save-dev @babel/preset-typescript
+
 npm install --save-dev ts-jest
 
 add
